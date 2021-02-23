@@ -1,0 +1,13 @@
+C:\Users\max jalapa\Desktop\holamundo\obj\Debug\netcoreapp3.1\holamundo.csprojAssemblyReference.cache
+C:\Users\max jalapa\Desktop\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfoInputs.cache
+C:\Users\max jalapa\Desktop\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfo.cs
+C:\Users\max jalapa\Desktop\holamundo\obj\Debug\netcoreapp3.1\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\max jalapa\Desktop\holamundo\bin\Debug\netcoreapp3.1\holamundo.exe
+C:\Users\max jalapa\Desktop\holamundo\bin\Debug\netcoreapp3.1\holamundo.deps.json
+C:\Users\max jalapa\Desktop\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.json
+C:\Users\max jalapa\Desktop\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.dev.json
+C:\Users\max jalapa\Desktop\holamundo\bin\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\max jalapa\Desktop\holamundo\bin\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\max jalapa\Desktop\holamundo\obj\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\max jalapa\Desktop\holamundo\obj\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\max jalapa\Desktop\holamundo\obj\Debug\netcoreapp3.1\holamundo.genruntimeconfig.cache
